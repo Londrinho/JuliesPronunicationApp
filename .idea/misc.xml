@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_bench.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_burger.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_clock.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_crayon.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_elephant.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_girl.xml" value="0.1485148514851485" />
+        <entry key="app/src/main/res/layout/fragment_glasses.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_grapes.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_hand.xml" value="0.29333333333333333" />
+        <entry key="app/src/main/res/layout/fragment_lamp.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_monkey.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_mushroom.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_plane.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_printer.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_ring.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_saw.xml" value="0.25277777777777777" />
+        <entry key="app/src/main/res/layout/fragment_scarf.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_screw.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_scroll.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_shelf.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_sky.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_small.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_spoon.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_stairs.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_tent.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_title.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_toe.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_twig.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_whistle.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/menu/navdrawer_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/overflow_menu.xml" value="0.29791666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

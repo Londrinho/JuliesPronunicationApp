@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/titleFragment"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/crayonFragment"
+        android:title="@string/crayon_ay" />
+    <item
+        android:id="@+id/tentFragment"
+        android:title="@string/tent_nt" />
+    <item
+        android:id="@+id/stairsFragment"
+        android:title="@string/stairs_air" />
+    <item
+        android:id="@+id/twigFragment"
+        android:title="@string/twig_tw" />
+    <item
+        android:id="@+id/skyFragment"
+        android:title="@string/sky_sk" />
+    <item
+        android:id="@+id/mushroomFragment"
+        android:title="@string/mushroom_shr" />
+    <item
+        android:id="@+id/elephantFragment"
+        android:title="@string/elphant" />
+    <item
+        android:id="@+id/spoonFragment"
+        android:title="@string/spoon" />
+    <item
+        android:id="@+id/smallFragment"
+        android:title="@string/small" />
+    <item
+        android:id="@+id/shelfFragment"
+        android:title="@string/shelf" />
+    <item
+        android:id="@+id/scrollFragment"
+        android:title="@string/scroll" />
+    <item
+        android:id="@+id/whistleFragment"
+        android:title="@string/whistle" />
+    <item
+        android:id="@+id/girlFragment"
+        android:title="@string/girl" />
+    <item
+        android:id="@+id/scarfFragment"
+        android:title="@string/scarf" />
+    <item
+        android:id="@+id/printerFragment"
+        android:title="@string/printer" />
+    <item
+        android:id="@+id/planeFragment"
+        android:title="@string/plane" />
+    <item
+        android:id="@+id/lampFragment"
+        android:title="@string/lamp" />
+    <item
+        android:id="@+id/sawFragment"
+        android:title="@string/saw" />
+    <item
+        android:id="@+id/grapesFragment"
+        android:title="@string/grapes" />
+    <item
+        android:id="@+id/handFragment"
+        android:title="@string/hand" />
+    <item
+        android:id="@+id/glassesFragment"
+        android:title="@string/glasses" />
+    <item
+        android:id="@+id/clockFragment"
+        android:title="@string/clock" />
+    <item
+        android:id="@+id/burgerFragment"
+        android:title="@string/burger" />
+    <item
+        android:id="@+id/screwFragment"
+        android:title="@string/screw" />
+    <item
+        android:id="@+id/benchFragment"
+        android:title="@string/bench" />
+    <item
+        android:id="@+id/ringFragment"
+        android:title="@string/ring" />
+    <item
+        android:id="@+id/monkeyFragment"
+        android:title="@string/monkey" />
+    <item
+        android:id="@+id/toeFragment"
+        android:title="@string/toe" />
+</menu>

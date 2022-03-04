@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/titleFragment">
+
+    <fragment
+        android:id="@+id/titleFragment"
+        android:name="com.jimmy.juliespronunciationapp.TitleFragment"
+        android:label="@string/home"
+        tools:layout="@layout/fragment_title" />
+    <fragment
+        android:id="@+id/ringFragment"
+        android:name="com.jimmy.juliespronunciationapp.RingFragment"
+        android:label="@string/ring"
+        tools:layout="@layout/fragment_ring" />
+    <fragment
+        android:id="@+id/benchFragment"
+        android:name="com.jimmy.juliespronunciationapp.BenchFragment"
+        android:label="@string/bench"
+        tools:layout="@layout/fragment_bench" />
+    <fragment
+        android:id="@+id/burgerFragment"
+        android:name="com.jimmy.juliespronunciationapp.BurgerFragment"
+        android:label="@string/burger"
+        tools:layout="@layout/fragment_burger" />
+    <fragment
+        android:id="@+id/clockFragment"
+        android:name="com.jimmy.juliespronunciationapp.ClockFragment"
+        android:label="@string/clock"
+        tools:layout="@layout/fragment_clock" />
+    <fragment
+        android:id="@+id/glassesFragment"
+        android:name="com.jimmy.juliespronunciationapp.GlassesFragment"
+        android:label="@string/glasses"
+        tools:layout="@layout/fragment_glasses" />
+    <fragment
+        android:id="@+id/handFragment"
+        android:name="com.jimmy.juliespronunciationapp.HandFragment"
+        android:label="@string/hand"
+        tools:layout="@layout/fragment_hand" />
+    <fragment
+        android:id="@+id/lampFragment"
+        android:name="com.jimmy.juliespronunciationapp.LampFragment"
+        android:label="@string/lamp"
+        tools:layout="@layout/fragment_lamp" />
+    <fragment
+        android:id="@+id/planeFragment"
+        android:name="com.jimmy.juliespronunciationapp.PlaneFragment"
+        android:label="@string/plane"
+        tools:layout="@layout/fragment_plane" />
+    <fragment
+        android:id="@+id/printerFragment"
+        android:name="com.jimmy.juliespronunciationapp.PrinterFragment"
+        android:label="@string/printer"
+        tools:layout="@layout/fragment_printer" />
+    <fragment
+        android:id="@+id/scarfFragment"
+        android:name="com.jimmy.juliespronunciationapp.ScarfFragment"
+        android:label="@string/scarf"
+        tools:layout="@layout/fragment_scarf" />
+    <fragment
+        android:id="@+id/scrollFragment"
+        android:name="com.jimmy.juliespronunciationapp.ScrollFragment"
+        android:label="@string/scroll"
+        tools:layout="@layout/fragment_scroll" />
+    <fragment
+        android:id="@+id/shelfFragment"
+        android:name="com.jimmy.juliespronunciationapp.ShelfFragment"
+        android:label="@string/shelf"
+        tools:layout="@layout/fragment_shelf" />
+    <fragment
+        android:id="@+id/smallFragment"
+        android:name="com.jimmy.juliespronunciationapp.SmallFragment"
+        android:label="@string/small"
+        tools:layout="@layout/fragment_small" />
+    <fragment
+        android:id="@+id/spoonFragment"
+        android:name="com.jimmy.juliespronunciationapp.SpoonFragment"
+        android:label="@string/spoon"
+        tools:layout="@layout/fragment_spoon" />
+    <fragment
+        android:id="@+id/skyFragment"
+        android:name="com.jimmy.juliespronunciationapp.SkyFragment"
+        android:label="@string/sky_sk"
+        tools:layout="@layout/fragment_sky" />
+    <fragment
+        android:id="@+id/twigFragment"
+        android:name="com.jimmy.juliespronunciationapp.TwigFragment"
+        android:label="@string/twig_tw"
+        tools:layout="@layout/fragment_twig" />
+    <fragment
+        android:id="@+id/stairsFragment"
+        android:name="com.jimmy.juliespronunciationapp.StairsFragment"
+        android:label="@string/stairs_air"
+        tools:layout="@layout/fragment_stairs" />
+    <fragment
+        android:id="@+id/tentFragment"
+        android:name="com.jimmy.juliespronunciationapp.TentFragment"
+        android:label="@string/tent_nt"
+        tools:layout="@layout/fragment_tent" />
+    <fragment
+        android:id="@+id/crayonFragment"
+        android:name="com.jimmy.juliespronunciationapp.CrayonFragment"
+        android:label="@string/crayon_ay"
+        tools:layout="@layout/fragment_crayon" />
+    <fragment
+        android:id="@+id/elephantFragment"
+        android:name="com.jimmy.juliespronunciationapp.ElephantFragment"
+        android:label="@string/elphant"
+        tools:layout="@layout/fragment_elephant" />
+    <fragment
+        android:id="@+id/girlFragment"
+        android:name="com.jimmy.juliespronunciationapp.GirlFragment"
+        android:label="@string/girl"
+        tools:layout="@layout/fragment_girl" />
+    <fragment
+        android:id="@+id/grapesFragment"
+        android:name="com.jimmy.juliespronunciationapp.GrapesFragment"
+        android:label="@string/grapes"
+        tools:layout="@layout/fragment_grapes" />
+    <fragment
+        android:id="@+id/monkeyFragment"
+        android:name="com.jimmy.juliespronunciationapp.MonkeyFragment"
+        android:label="@string/monkey"
+        tools:layout="@layout/fragment_monkey" />
+    <fragment
+        android:id="@+id/mushroomFragment"
+        android:name="com.jimmy.juliespronunciationapp.MushroomFragment"
+        android:label="@string/mushroom_shr"
+        tools:layout="@layout/fragment_mushroom" />
+    <fragment
+        android:id="@+id/whistleFragment"
+        android:name="com.jimmy.juliespronunciationapp.WhistleFragment"
+        android:label="@string/whistle"
+        tools:layout="@layout/fragment_whistle" />
+    <fragment
+        android:id="@+id/sawFragment"
+        android:name="com.jimmy.juliespronunciationapp.SawFragment"
+        android:label="@string/saw"
+        tools:layout="@layout/fragment_saw" />
+    <fragment
+        android:id="@+id/screwFragment"
+        android:name="com.jimmy.juliespronunciationapp.ScrewFragment"
+        tools:layout="@layout/fragment_screw"
+        android:label="ScrewFragment" />
+    <fragment
+        android:id="@+id/toeFragment"
+        android:name="com.jimmy.juliespronunciationapp.ToeFragment"
+        android:label="@string/toe"
+        tools:layout="@layout/fragment_toe" />
+</navigation>

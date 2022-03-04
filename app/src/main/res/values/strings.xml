@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">JuliesPronunciationApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="crayon_ay">Crayon:ay</string>
+    <string name="tent_nt">Tent:nt</string>
+    <string name="stairs_air">Stairs:air</string>
+    <string name="twig_tw">Twig:tw</string>
+    <string name="sky_sk">Sky:sk</string>
+    <string name="mushroom_shr">Mushroom:shr</string>
+    <string name="elphant">Elephant:ph</string>
+    <string name="spoon">Spoon:sp</string>
+    <string name="small">Small:sm</string>
+    <string name="shelf">Shelf:lf</string>
+    <string name="scroll">Scroll:scr</string>
+    <string name="whistle">Whistle:wh</string>
+    <string name="girl">Girl:ir</string>
+    <string name="scarf">Scarf:sc</string>
+    <string name="printer">Printer:pr</string>
+    <string name="plane">Plane:pl</string>
+    <string name="lamp">Lamp:mp</string>
+    <string name="saw">Saw:aw</string>
+    <string name="grapes">Grapes:gr</string>
+    <string name="hand">Hand:nd</string>
+    <string name="glasses">Glasses:gl</string>
+    <string name="clock">Clock:cl</string>
+    <string name="burger">Burger:ur</string>
+    <string name="toe">Toe:oe</string>
+    <string name="bench">Bench:nch</string>
+    <string name="ring">Ring:ng</string>
+    <string name="monkey">Monkey:ey</string>
+    <string name="screw">Screw:ew</string>
+</resources>
